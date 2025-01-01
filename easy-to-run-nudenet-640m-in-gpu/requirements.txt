@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib==3.9.0
+pywin32
+dxcam==0.0.5
+ultralytics==8.2.61
+tensorrt==10.2.0.post1
+nvidia-cuda-runtime-cu12==12.5.82
+onnx==1.16.1
